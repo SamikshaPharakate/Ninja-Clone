@@ -1,5 +1,7 @@
 # Ninja-Clone (Coding Ninjas Clone)
 
+**[Live Demo: https://codeninjaclone.vercel.app/](https://codeninjaclone.vercel.app/)**
+
 A modern, responsive clone of an ed-tech platform (like Coding Ninjas), built to showcase a rich UI with smooth animations and dynamic routing.
 
 ## Features
